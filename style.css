@@ -1,0 +1,117 @@
+h1{
+    text-align: center;
+    font-size: 21px;
+    margin-top: 28px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 115px;
+}
+
+body{
+    font-family: 'Red Hat Display', sans-serif;
+    background-color:hsl(225, 100%, 94%);
+    margin-top: 0px;
+    padding-top: 0px;
+    max-width: 1440px;
+}
+#firstimage{
+    width: 1440px;
+    height: 437px;
+    margin-top: -82px;
+}
+
+#secondimage{
+    width: 420px;
+    height: 220px;
+    border-radius: 12px 12px 0px 0px;
+    margin-left: 552px;
+    margin-top: -317px;
+    margin-bottom: 101px;
+}
+#White{
+    background-color: white;
+    width: 420px;
+    height: 370px;
+    position: absolute;
+    margin-top: -105px;
+    margin-left: 552px;
+    border-radius: 0px 0px 20px 20px;
+    display: inline block;
+}
+ 
+p{
+    display: inline-block;
+    position: absolute;
+    width: calc(1440px/4);
+    text-align: center;
+    color: hsl(224, 23%, 55%);
+    margin-top: 66px;
+    margin-left: 26px;
+} 
+
+#Pale{
+    background-color: hsl(225, 100%, 98%);
+    width: 324px;
+    height: 89px;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: 150px;
+    border-radius: 11px;
+}
+
+h3{    
+    font-size: 15px;
+    margin-left: 100px;
+    margin-top: 16px;
+} 
+
+#MusicIcon{
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 164px;
+    margin-left: 85px;
+}
+
+h4{
+    margin-left: 99px;
+    margin-top: -13px;
+    font-size: 15px;
+    color: hsl(224, 23%, 55%);
+}
+
+h5{
+margin-top: 179px;
+margin-left: 317px;
+position: absolute;
+text-decoration: underline;
+color: hsl(245, 75%, 52%);
+}
+
+#DarkBlue{
+background-color: hsl(245, 75%, 52%);
+width: 324px;
+height: 45px;
+position: absolute;
+border-radius: 11px;
+margin-top: 152px;
+margin-left: 602px;
+text-align: center;
+}
+
+.Button{
+    font-size: 15px;
+    color:  hsl(225, 100%, 98%);
+}
+
+
+#Cancel{
+    display: inline-block;
+    position: absolute;
+    margin-top: 322px;
+    margin-left: 170px;
+    color: hsl(224, 23%, 55%);
+    font-size: 13px;
+    
+}
